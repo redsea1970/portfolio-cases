@@ -1,0 +1,14 @@
+{
+  "period": "2024-11-25 — 2024-12-01",
+  "current_week": {
+    "revenue": 12500000,
+    "orders": 3200,
+    "avg_check": 3900
+  },
+  "previous_week": {
+    "revenue": 11000000,
+    "orders": 3000,
+    "avg_check": 3666
+  },
+  "plan_revenue": 12000000
+}
