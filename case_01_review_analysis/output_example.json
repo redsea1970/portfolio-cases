@@ -1,0 +1,32 @@
+{
+  "summary": {"total_reviews": 5, "distinct_themes": 3},
+  "themes": [
+    {
+      "theme_id": "theme_1",
+      "title": "Скорость и качество сервиса",
+      "category": "praise",
+      "description": "Клиенты положительно оценивают скорость работы.",
+      "examples": ["Отличный сервис, всё работает быстро"],
+      "user_importance": 5,
+      "business_impact": "high"
+    },
+    {
+      "theme_id": "theme_2",
+      "title": "Проблемы с доставкой",
+      "category": "bug",
+      "description": "Жалобы на задержки и повреждение упаковки.",
+      "examples": ["Заказ пришёл поздно, упаковка повреждена"],
+      "user_importance": 4,
+      "business_impact": "high"
+    },
+    {
+      "theme_id": "theme_3",
+      "title": "Нейтральные отзывы",
+      "category": "other",
+      "description": "Отзывы без явной эмоциональной окраски.",
+      "examples": ["Пока не могу оценить"],
+      "user_importance": 2,
+      "business_impact": "low"
+    }
+  ]
+}
