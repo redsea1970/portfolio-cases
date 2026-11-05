@@ -49,3 +49,7 @@ flowchart LR
     M --> N[notes.md]
     O --> V[guardrails.py: JSON/PII]
 ```
+
+## Архитектура
+
+Подробная схема проекта: [ARCHITECTURE.md](ARCHITECTURE.md)
